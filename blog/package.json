@@ -17,11 +17,14 @@
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-index": "^3.0.0",
     "hexo-generator-tag": "^2.0.0",
+    "hexo-number-title": "^2.1.1",
+    "hexo-reading-time": "^1.0.3",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
+    "hexo-theme-redefine": "^2.4.4",
     "hexo-theme-stellar": "^1.19.0"
   }
 }
